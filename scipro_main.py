@@ -1,0 +1,1 @@
+#solving the schrödinger equation step-by-step using python  
